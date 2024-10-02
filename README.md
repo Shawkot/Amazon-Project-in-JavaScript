@@ -1,5 +1,5 @@
 # Amazon-Project-in-JavaScript
-This repo will contain all the HTML, CSS, and JavaScript code for a dummy Amazon site.
+This repo will contain all the HTML, CSS, and JavaScript code for a dummy front-end Amazon site.
 I followed a YouTube tutorial titled "JavaScript Tutorial Full Course - Beginner to Pro (2024)"
 from a channel SuperSimpleDev. The instructor, Simon is a wonderful teacher, he walked through from
 naive to pro level, and refactored codes little by little.
